@@ -1,6 +1,6 @@
 # Quoridor 
 
-An implementation of a 2-4 player board game called quoridor in C++ using Qt5, Qt5 designer, linux sockets and SQLite. This project is the result of a collaberation between 6 fellow students. The game is in french and the instructions within the client are fairly straightforward. The instructions below will detail for non-francophone users how to play a game in the normal game mode. The rules can be found here https://en.gigamic.com/files/media/fiche_pedagogique/educative-sheet_quoridor-english.pdf
+An implementation of a 2-4 player board game called quoridor in C++ using Qt5, Qt5 designer, linux sockets and SQLite. This project is the result of a collaberation between 6 fellow students. The game and code is written in french and the instructions within the client are fairly straightforward. The instructions below will detail for non-francophone users how to play a game in the normal game mode. The rules can be found here https://en.gigamic.com/files/media/fiche_pedagogique/educative-sheet_quoridor-english.pdf
 
 The game is multiplayer, over LAN, given the users know each other's ip addresses. Otherwise, the game can also be played on one computer with multiple users. Simply launch multiple terminals for each client. 
 
